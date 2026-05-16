@@ -1,0 +1,5 @@
+Symlinking /home/sid20-04/catkin_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake
+Symlinking /home/sid20-04/catkin_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake
+Symlinking /home/sid20-04/catkin_ws/devel/lib/pkgconfig/rotors_joy_interface.pc
+Symlinking /home/sid20-04/catkin_ws/devel/lib/rotors_joy_interface/rotors_joy_interface_crazyflie
+Symlinking /home/sid20-04/catkin_ws/devel/lib/rotors_joy_interface/rotors_joy_interface

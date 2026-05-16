@@ -1,0 +1,1 @@
+/home/sid20-04/catkin_ws/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/Point2D.l

@@ -1,0 +1,6 @@
+CrazyS/rqt_rotors
+/home/sid20-04/catkin_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake /home/sid20-04/catkin_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake
+/home/sid20-04/catkin_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake /home/sid20-04/catkin_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
+/home/sid20-04/catkin_ws/devel/.private/rqt_rotors/bin/hil_plugin /home/sid20-04/catkin_ws/devel/bin/hil_plugin
+/home/sid20-04/catkin_ws/devel/.private/rqt_rotors/lib/pkgconfig/rqt_rotors.pc /home/sid20-04/catkin_ws/devel/lib/pkgconfig/rqt_rotors.pc
+/home/sid20-04/catkin_ws/devel/.private/rqt_rotors/lib/python3/dist-packages/rqt_rotors/__init__.py /home/sid20-04/catkin_ws/devel/lib/python3/dist-packages/rqt_rotors/__init__.py
